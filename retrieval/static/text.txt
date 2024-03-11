@@ -1,0 +1,1 @@
+Sttaic files are those which are publically visible
